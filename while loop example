@@ -1,0 +1,5 @@
+x = 0
+while (x < 6) :
+    print "Hello world" 
+    x = x + 1
+print "done"
