@@ -1,2 +1,8 @@
 # Graded by Andrew Loewen
 # loeand16
+
+import lab2.n
+p = 0
+while p < n + 1:
+  print "Hello World"
+  p = p + 1
