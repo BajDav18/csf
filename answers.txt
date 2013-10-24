@@ -1,0 +1,34 @@
+Name: David Bajuk
+Evergreen Login: BajDav18
+Evergreen Login: ...
+Computer Science Foundations
+Programming as a Way of Life
+Fall 2013
+Homework 3 
+
+For each problem that requires a written answer, write (or copy-and-paste) your answers in this file.  When you are done, you should have replaced all the ellipses (the three dots) with your answers.
+
+At the end, you will turn in this file along with your modified
+dna_analysis.py program.
+
+
+Problem 1:
+
+(No answers in this file.)
+
+Problem 2:
+GC-content: 0.43029262963
+
+Problem 3:
+Running the program gave a NameError. Specifically, it said that name ‘linenum’ is not defined. This comes as a result of commenting out the line linenum = 0. Therefore line 40 does not recognize linenum to process linenum = linenum + 1.
+If you commented out the line gc_count = 0 then the program would not be able to even being to process any of the information it reads.
+
+Problem 4:
+AT-content: 0.568993851852
+
+Collaboration:
+The only person who helped me was Paul Pham.
+
+Reflection:
+I learned that notepad sucks for one thing. I also learned that computing DNA is weird because it takes a very large amount of data and give a very simple answer. 
+
