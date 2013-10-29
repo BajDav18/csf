@@ -1,6 +1,5 @@
 Name: David Bajuk
 Evergreen Login: BajDav18
-Evergreen Login: ...
 Computer Science Foundations
 Programming as a Way of Life
 Fall 2013
@@ -17,18 +16,33 @@ Problem 1:
 (No answers in this file.)
 
 Problem 2:
-GC-content: 0.43029262963
+GC-content: 0.430599870611
 
 Problem 3:
 Running the program gave a NameError. Specifically, it said that name ‘linenum’ is not defined. This comes as a result of commenting out the line linenum = 0. Therefore line 40 does not recognize linenum to process linenum = linenum + 1.
 If you commented out the line gc_count = 0 then the program would not be able to even being to process any of the information it reads.
 
 Problem 4:
-AT-content: 0.568993851852
+AT-content: 0.569400129389
+
+Problem 5:
+G count: 5738773
+C count: 5879128
+A count: 7701287
+T count: 7661547
+
+Problem 6:
+In every file except for test-small.fastq, the metric Sum count differs from the Total count and the seq length. The reason being not all of the sequence characters were G, C, A, or T. Throughout the program lie hidden N’s looking to contaminate the result. Placed there by a mad scientist bent on world domination through DNA manipulation no doubt.
+
+Problem 7:
+AT/GC Ratio: 1.32234161747
+
+Problem 8:
+GC Classification: Moderate gc content
 
 Collaboration:
 The only person who helped me was Paul Pham.
 
 Reflection:
-I learned that notepad sucks for one thing. I also learned that computing DNA is weird because it takes a very large amount of data and give a very simple answer. 
+I learned that notepad sucks for one thing. I also learned that computing DNA is weird because it takes a very large amount of data and gives a very simple answer. However I enjoyed these last two homework styles. It was actually fun to make this program and know what I’m doing. And at the end when I look at the large program I created, it’s very satisfying. 
 
