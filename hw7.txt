@@ -1,3 +1,7 @@
-For Homework 7, make up Homework 6 and meet with your group over the weekend.
-While you are waiting to meet up with them, continue to work on Homework 5/7: Predicting elections
+For Homework 7, meet with tutors on Friday to
+continue working on Homework 5/7: Predicting elections
 up to 7 hour total, due Friday (11/22) at 5pm.
+
+Write a proposal.txt and commit to your github about turtles (!).
+
+At the same time, make up Homework 6 and meet with your group over the weekend.
