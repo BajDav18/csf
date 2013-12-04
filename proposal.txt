@@ -1,0 +1,1 @@
+I am going to be doing a project involving turtles instead of the homework for week 8. In this project I will be programming turtles to draw out every letter of the alphabet, using different techniques along the way hopefully, and then have some sort of word at the end also drawn by turtles. I'm not sure how well this is going to turn out but yeah just expect that.
